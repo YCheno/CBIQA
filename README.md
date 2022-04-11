@@ -5,3 +5,5 @@
 
 
 Dataset download: [Google Drive](https://drive.google.com/file/d/1fa-c70JeISueG5ay-mhqB2sFcUC8iZnU/view?usp=sharing)
+
+real-world early cartoon test set download: [Google Drive](https://drive.google.com/file/d/1ZyyY0oY9_XCzKbjfmUeQ4tZDAswBA-Pe/view?usp=sharing)
